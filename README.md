@@ -11,5 +11,5 @@ Please feel free to star the [repository](https://github.com/louishwy/study-note
 
 <br>
 
-#### 前方提示，笔记正文由中文编撰 ！
+#### 提前预警，笔记正文由中文编撰 ！
 #### Please be aware the content is written in Chinese !
