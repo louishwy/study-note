@@ -1,6 +1,6 @@
 # Louis' Study Note
 
->Javascript study note for review, ECMAScript &amp; Node mainly, written by Louis.He.<br>
+>Javascript study note for review, ECMAScript &amp; Node mainly, written by Louis, powered by gitbook.<br>
 Please feel free to star the [repository](https://github.com/louishwy/study-note) on github to keep updated.
 
 <br>
