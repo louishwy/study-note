@@ -4,6 +4,7 @@
 Please feel free to star the [repository](https://github.com/louishwy/study-note) on github to keep updated.
 
 <br>
+
 **Welcome to this rediculous book !**
 
 **This book is designed to record knowledge points during daily study, and keep practicing Markdown language in the mean time.**
