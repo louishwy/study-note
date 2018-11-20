@@ -1,9 +1,17 @@
 # Summary
-
 * [Introduction](README.md)
-
 * [ECMAScript](ECMAScript/README.md)
     * [let和const命令](ECMAScript/let&const/README.md)
     * [变量的解构赋值](ECMAScript/destructuring/README.md)
-
+        * [数组的解构赋值](ECMAScript/destructuring/array/README.md)
+        * [对象的解构赋值](ECMAScript/destructuring/object/README.md)
+    * [ES6的扩展](ECMAScript/expansion/README.md)
+        * [String](ECMAScript/expansion/string/README.md)
+        * [Regex](ECMAScript/expansion/regex/README.md)
+        * [Number](ECMAScript/expansion/number/README.md)
+        * [Function](ECMAScript/expansion/function/README.md)
+        * [Array](ECMAScript/expansion/array/README.md)
+        * [Object](ECMAScript/expansion/object/README.md)
+    *  [Symbol](ECMAScript/symbol/README.md)
+    *  [Set和Map数据结构](ECMAScript/set&map/README.md)
 * [Node](Node/README.md)
