@@ -1,11 +1,25 @@
-#### 数组的解构赋值（基本用法）
+#### 数组的解构赋值(基本用法)
 
-ES6允许按照一定的模式从数组和对象中提取值，对变量进行赋值，被称为解构赋值。
+<br>
+
 ```
 let [a, b, c] = [1, 2, 3];
 a // 1
 b // 2
 c // 3
+```
+<br>
+
+用正则表达式提取值
+```
+let url = "https://developer.mozilla.org/en-US/Web/JavaScript";
+
+let parsedURL = /^(\w+)\:\/\/([^\/]+)\/(.*)$/.exec(url);
+let [, protocol, fullhost, fullpath] = parsedURL;
+
+parsedURL // ["https://developer.mozilla.org/en-US/Web/JavaScript", "https", "developer.mozilla.org", "en-US/Web/JavaScript"]
+
+protocol // "https"
 ```
 <br>
 
